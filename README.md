@@ -3,7 +3,7 @@
 
 🌟 Greetings! I am **Jose**, a I work in the fields of **meteorology**, specializing in **data analysis**, **Machine Learning**, and **Data Science**! With an unwavering passion for harnessing the power of data to drive **innovation** and tackle complex challenges, I have dedicated my academic and professional journey to mastering these cutting-edge domains. 🎓
 
-I  hold a **doctorate degree** in **Technical Sciences**, focusing on advanced methodologies and algorithms. My research has been recognized and published in reputable journals, solidifying my expertise in this exciting field! 📚✨ I possess a robust foundation applying machine learning algorithms. 🔍
+I  hold a **doctorate degree** in **Technical Sciences**, focusing on advanced Quality Control using Machine Learning Algorithms. My research has been published in several journals, solidifying my expertise in this exciting field! 
 
 Transforming raw and noisy data into **meaningful insights** is my goal! Through meticulous data preprocessing techniques and feature engineering, I ensure the quality and relevance of input variables to **enhance model performance**. 💡
 
