@@ -13,7 +13,6 @@ If you are seeking a talented and dedicated **Machine Learning** and **Data Scie
 
 ## 🎓 Certificates and Relevant Links
 
-Scanned copies of diplomas, CV, and certificates can be accessed [**HERE**](https://drive.google.com/drive/folders/1iagH3CysKMFMsLQGJJB1C4tc0R0GNbnd?usp=sharing). 📄
 
 For more details on my publication record, please check out my scientific production available on my [**RESEARCH GATE**](https://www.researchgate.net/profile/Jose-Luis-Araya-Lopez). 🔗
 
@@ -37,7 +36,7 @@ In addition to my technical prowess, I’m a meticulous and detail-oriented prof
 🌿 Collection, maintenance, and management of various national, regional, and international geophysical and environmental datasets. Application of statistical analysis and numerical methods for studying atmospheric and climate data. 🚀
 
 ### 10/2015 - 12/2018
-**PhD Candidate in Computer Sciences and Informatics**  
+**PhD Candidate in Technical Sciences**  
 *E-Science Department, ITMO University*  
 🤖 Worked in a multidisciplinary team with oceanographers, mathematicians, and computer scientists. Proposed an ensemble adaptive technology for hybrid metocean data quality control and restoration.
 
@@ -116,39 +115,92 @@ In addition to my technical prowess, I’m a meticulous and detail-oriented prof
 - **Summer School on Effective HPC for Climate and Weather**  
   Center of Excellence in Simulation of Climate and Weather in Europe (ESIWACE). August 24-28, 2020. ☁️
 
-## 🌍 Participation in Conferences
+## 🎤 Participation in Conferences
 
-- **Testing and Implementing Quality Control Algorithms for Temperature and Precipitation**  
-  WMO Technical Conference, Geneva, Switzerland, December 2006. 🎤
+- **Experiences in Testing and Implementing Quality Control Algorithms for Temperature and Precipitation**  
+  WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observations (TECO 2006), Geneva, Switzerland, 4-6 December 2006. 🇨🇭
+
+- **Experiences in Testing and Implementing Quality Control Algorithms for Temperature and Precipitation**  
+  XXVI Mini-Congress, Geophysics Research Centre (CIGEFI), University of Costa Rica, San José, Costa Rica, 4 May 2007. (Spanish) 🇨🇷
 
 - **Quality Control Algorithms for Radiosonde Data**  
-  XXVI Mini-Congress, San José, Costa Rica, December 2007. 🇨🇷
+  XXVI Mini-Congress, Geophysics Research Centre (CIGEFI), University of Costa Rica, San José, Costa Rica, 14 December 2007. (Spanish) 📡
+
+- **Improvements of the Quality Control System**  
+  National Meteorological Institute. 🏢
 
 - **Poster Presentation**  
-  WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observations (TECO 2008), Saint Petersburg, Russian Federation, November 2008. 📜
+  WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observations (TECO 2008) and METEOREX exhibition, Saint Petersburg, Russian Federation, 27-29 November 2008. 📜
+
+- **Scilab Quality Control Scripts for Surface Meteorological Data**  
+  Poster presentation at the Latin American Tutorial in High Performance and GRID Computing, University of Antioquia, Medellin, Colombia, 22-27 June 2009. 🌎
 
 - **Capacity Building at the National Meteorological Institute**  
-  Training personnel to apply quality control tools. TECO 2010, Helsinki, Finland. 🎓
+  Training personnel to apply quality control tools. Oral Presentation and technical paper at WMO Technical Conference (TECO 2010) and METEOREX exhibition, Helsinki, Finland, 30 August - 1 September 2010. 🎓
+
+- **Weather Observations in Costa Rica**  
+  Oral presentation at the Central-American Air Quality Forecast workshop, organized by the American Environmental Protection Agency and the National University, Costa Rica, September 17 - October 21, 2011. 🌤️
 
 - **Statistical Disaggregation and Bias-Adjustment of CMIP6 Variables for Climate Change Impact Studies**  
-  Poster presentation at the Climate and Atmosphere Research and Innovation Workshop, Cyprus, October 2021. 📊
+  Poster presentation at the Climate and Atmosphere Research and Innovation Workshop, The Cyprus Institute, Nicosia, Cyprus, 11-12 October 2021. 📊
+
+- **Using Machine Learning Methods and Hybrid Data Sources for Quality Control and Restoration of Meteorological Data**  
+  In Conference Proceedings of EuroCC-2 HPC for Research, Nicosia, Cyprus, October 2024. 🧠
+
+- **Use of Machine Learning Methods for Quality Control and Data Restoration of Metocean Data**  
+  WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observations (TECO 2024), Vienna, Austria, 23-26 September 2024. 🌊
+
+- **Future-Proofing Dairy Farms: Hourly Heat Stress Predictions with Machine Learning**  
+  Georgiades, P., Economou, T., Proestos, Y., Araya, J., Lelieveld, J., and Neira, M. EMS Annual Meeting 2024, Barcelona, Spain, 1–6 September 2024. [https://doi.org/10.5194/ems2024-164](https://doi.org/10.5194/ems2024-164) 🐄
+
+- **Use of Synthetic Time Series Datasets for Quality Control of Meteorological Data**  
+  General Assembly EGU25-5609 | ECS | Orals | ITS1.12/HS12.1. Jose Araya, Yiannis Proestos, and Jos Lelieveld. 🌐
+
+- **Exploring the Formation of Convective Clouds in the Tropical Eastern Andes**  
+  General Assembly EGU25-13473 | Orals | HS2.1.2. Diego Urdiales Flores, Marika Koukoula, Andries Jan de Vries, Jose Araya, Francina Dominguez, Rolando Célleri, and Nadav Peleg. ☁️
+
+- **CARE-C Seminar**  
+  "Reducing Collinearity Using PCA: A Case Study with Synthetic Datasets," The Cyprus Institute, Nicosia, Cyprus, 18 May 2025. 📅
 
 ## 🏆 Participation in Evaluation Committees
 
 - **Instituto Tecnológico de Costa Rica**  
   Awarded a certificate for participation as a member of the evaluation committee for the Doctorate in Natural Sciences for Development, February 2024. 🥇
 
-## 📚 Massive Open Online Courses (MOOCs)
+## 🌐 Massive Open Online Courses (MOOCs)
 
 - **Writing in the Sciences**  
-  Stanford University, November 21, 2012. ✍️
+  Free online offering provided by Stanford University. November 21, 2012. ✍️
 
 - **Machine Learning**  
-  Stanford University, December 4, 2012. 🤖
+  Free online offering provided by Stanford University. December 4, 2012. 🤖
+
+- **Computing for Data Analysis**  
+  Free online offering provided by Johns Hopkins University. February 6, 2013. 💻
 
 - **Data Analysis**  
-  John Hopkins University, March 22, 2013. 📈
+  Free online offering provided by Johns Hopkins University. March 22, 2013. 📊
 
+- **Mathematical Biostatistics Bootcamp I**  
+  Online offering provided by Johns Hopkins University. January 7, 2014. 📚
+
+- **Mathematical Biostatistics Bootcamp II**  
+  Online offering provided by Johns Hopkins University. March 7, 2014. 📈
+
+- **Statistical Learning**  
+  Online offering provided by Stanford University. April 4, 2014. 📉
+
+- **The Science and Technology behind Astronomical Discovery**  
+  Online offering provided by the University of Edinburgh. June 26, 2014. 🌌
+
+- **Philosophy and the Sciences**  
+  Online offering provided by the University of Edinburgh. January 22, 2015. 🧠
+
+- **15071X: The Analytics Edge**  
+  Online offering provided by the Massachusetts Institute of Technology. May 28, 2015. 🔍
+
+- **Practical Time Series Analysis**  
+  Online offering provided by the State University of New York. Coursera. May 23, 2018. ⏳
 ## 📝 Patents
 
 - **Software Patent №2018664149**: "System for Adaptive Ensemble Metocean Data Restoration"  
