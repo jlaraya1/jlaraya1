@@ -154,10 +154,28 @@ In addition to my technical prowess, I’m a meticulous and detail-oriented prof
 - **Software Patent №2018664149**: "System for Adaptive Ensemble Metocean Data Restoration"  
   Araya-Lopez, J.L., Nikitin N.O, Kalyuzhnaya A.V., Kosukhin S.S, Boukhanovsky A.V. Registration date: October 12, 2018. 📜
 
-## 📖 Last Publications
+## 📚 My Publications
 
-- **Araya-López, J.L. et al.** (2016). *Data Quality Control for St. Petersburg Flood Warning System*, Procedia Computer Science, 80, 2128-2140. 📄
+- **Araya-López, J.L.**, Alfaro, E. (2008). *Test and implementation of Quality Control Algorithms for surface temperature data* (Spanish). **Tecnología en Marcha**, 21-3, 47-61. 📄
 
-- **Araya-López, J.L. et al.** (2017). *Quality Control and Data Restoration of Metocean Arctic Data*, Procedia Computer Science, 119, 315-324. 🔍
+- **Araya-López, J.L.**, Alfaro, E. (2008). *Quality control algorithms for detecting atypical inter-tip time sequences in tipping buckets* (Spanish). **Tecnología en Marcha**, 22-2, 63-78. 🔍
 
-- **Georgiades, P. et al.** (2025). *Global Projections of Heat Stress at High Temporal Resolution Using Machine Learning*, Earth Syst. Sci. Data, 17, 1153–1171. [https://doi.org/10.5194/essd-17-1153-2025](https://doi.org/10.5194/essd-17-1153-2025) 🌍
+- **Araya-López, J.L.** (2011). *Quality control for surface air temperature and relative humidity* (Spanish). **Tecnología en Marcha**, 24, 1, 33-49. 🌡️
+
+- **Araya-López, J.L.** (2011). *Quality control for precipitation, irradiance, and wind data* (Spanish). **Revista de Climatología**, 11, 11-29. ☀️
+
+- **Araya-López, J.L.** (2014). *A computer program for processing and quality-controlling hourly meteorological data in a semi-automatic way* (Spanish). **Tópicos Meteorológicos y Oceanográficos**, 13, 27-42. 💻
+
+- **Araya-López, J.L.** (2014). *Experiences in the operational implementation of a multivariate method for imputation of meteorological data* (Spanish). **Tecnología en Marcha**, 27, 3, 70-79. 📊
+
+- **Araya-López, J.L.** (2015). *Using a cross-validation criterion for assessing the performance of a multivariate data imputation method* (Spanish). **Tópicos Meteorológicos y Oceanográficos**, 14, 27-36. 📈
+
+- **Araya-López, J.L.**, Kalyuzhnaya, A.V., Kosukhin, S.S., & Ivanov, S.V. (2016). *Data Quality Control for St. Petersburg Flood Warning System*. **Procedia Computer Science**, Volume 80, 2128-2140, ISSN 1877-0509. 🌊
+
+- **Araya-López, J.L.**, Uteuov, A., & Kalyuzhnaya, A.V. (2017). *Quality control and data restoration of metocean Arctic data*. **Procedia Computer Science**, Volume 119, 315-324. ❄️
+
+- **Araya-Lopez, J.L.**, Nikitin, N.O., & Kalyuzhnaya, A.V. (2018). *Case-adaptive ensemble technique for met-ocean data restoration*. **Procedia Computer Science**, Volume 136, 311-320. 🧩
+
+- **Hajat, S.**, Proestos, Y., Araya-Lopez, J.-L., Economou, T., Lelieveld, J. (2023). *Current and future trends in heat-related mortality in the MENA region: a health impact assessment with bias-adjusted statistically downscaled CMIP6 (SSP-based) data and Bayesian inference*. **The Lancet Planetary Health**, Volume 7, Issue 4, Pages e282-e290. [https://doi.org/10.1016/S2542-5196(23)00045-1](https://doi.org/10.1016/S2542-5196(23)00045-1) 🌍
+
+- **Georgiades, P.**, Economou, T., Proestos, Y., Araya, J., Lelieveld, J., & Neira, M. (2025). *Global projections of heat stress at high temporal resolution using machine learning*. **Earth Syst. Sci. Data**, 17, 1153–1171. [https://doi.org/10.5194/essd-17-1153-2025](https://doi.org/10.5194/essd-17-1153-2025) 📅
