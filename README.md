@@ -1,15 +1,14 @@
 ## Hi there 👋
 ## 🎤 Presentation
 
-🌟 Greetings! I am **Jose**, a highly skilled professional in the realm of **Computer Sciences**, specializing in **data analysis**, **Machine Learning**, and **Data Science**! With an unwavering passion for harnessing the power of data to drive **innovation** and tackle complex challenges, I have dedicated my academic and professional journey to mastering these cutting-edge domains. 🎓
+🌟 Greetings! I am **Jose**, a I work in the fields of **meteorology**, specializing in **data analysis**, **Machine Learning**, and **Data Science**! With an unwavering passion for harnessing the power of data to drive **innovation** and tackle complex challenges, I have dedicated my academic and professional journey to mastering these cutting-edge domains. 🎓
 
-I proudly hold a **doctorate degree** in **Informatics**, focusing on advanced methodologies and algorithms in machine learning. My research has been recognized and published in reputable journals, solidifying my expertise in this exciting field! 📚✨ I possess a robust foundation in developing and optimizing machine learning algorithms, from regression and classification models to sophisticated deep learning architectures. 🔍
+I  hold a **doctorate degree** in **Technical Sciences**, focusing on advanced methodologies and algorithms. My research has been recognized and published in reputable journals, solidifying my expertise in this exciting field! 📚✨ I possess a robust foundation applying machine learning algorithms. 🔍
 
-Transforming raw and noisy data into **meaningful insights** is my forte! Through meticulous data preprocessing techniques and feature engineering, I ensure the quality and relevance of input variables to **enhance model performance**. 💡
+Transforming raw and noisy data into **meaningful insights** is my goal! Through meticulous data preprocessing techniques and feature engineering, I ensure the quality and relevance of input variables to **enhance model performance**. 💡
 
 With a keen eye for **accuracy** and **efficiency**, I excel at evaluating and fine-tuning machine learning models. By employing cross-validation, hyperparameter optimization, and ensemble techniques, I strive to achieve optimal performance and robustness! 🔧
 
-If you are seeking a talented and dedicated **Machine Learning** and **Data Science** expert to elevate your organization's analytical capabilities, I would be thrilled to discuss potential opportunities! 🌈 Please feel free to reach out to me. Thank you for considering my profile! 🙌
 
 ## 🎓 Certificates and Relevant Links
 
