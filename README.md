@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Synthetic datasets, gap-filling and quality Control using machine learning tools. 
+- 🔭 I’m currently working on Climate Change, Data Processing, Quality Control, Synthetic datasets, gap-filling using machine learning tools. 
 - 🌱 I’m currently learning a lot about machine learning stuff!
 - 👯 I’m looking to collaborate on any of the topics related to the work I do!
 - 📫 How to reach me: j.araya@cyi.ac.cy
