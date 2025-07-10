@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Synthetic datasets, gap-filling and quality Control using machine learning tools. 
+- 🌱 I’m currently learning a lot about machine learning stuff!
+- 👯 I’m looking to collaborate on any of the topics related to the work I do!
+- 📫 How to reach me: jlaraya1@gmail.com
+
+- https://www.researchgate.net/profile/Jose-Araya-10?ev=hdr_xprf
+- https://orcid.org/0000-0001-6394-4402
+
 <!--
 **jlaraya1/jlaraya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    
