@@ -49,15 +49,6 @@ In addition to my technical prowess, I’m a meticulous and detail-oriented prof
 *School of Physics, University of Costa Rica*  
 📚 Lecturer in courses: "Laboratory of General Physics III", "Meteorological Instruments and Observing Systems", and "General Physics I".
 
-## 🌍 Participation in Conferences
-
-- **Testing and Implementing Quality Control Algorithms for Temperature and Precipitation**. WMO Technical Conference, Geneva, Switzerland, December 2006. 🎤
-- **Quality Control Algorithms for Radiosonde Data**. XXVI Mini-Congress, San José, Costa Rica, December 2007. 🌎
-
-## 🏆 Participation in Evaluation Committees
-
-- Instituto Tecnológico de Costa Rica, Universidad Nacional, Universidad Estatal a Distancia. 2024. Awarded a certificate for participation in the evaluation committee for the Doctorate in Natural Sciences for Development. 🎖️
-
 ## 🎓 Special Courses
 
 - **Intermediate Level Certificate in English**  
