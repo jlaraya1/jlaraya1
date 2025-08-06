@@ -17,6 +17,10 @@ For more details on my publication record, please check out my scientific produc
 
 My **ORCID** profile is available here: [**ORCID**](https://orcid.org/0000-0001-6394-4402). 🌐
 
+Please take a look at my **Portfolio** Playlist to see some of the things I have being doing in the past:[**PORTFOLIO**](https://studio.youtube.com/playlist/PLBbto4pacbrG5Cpv3cvIIAyUPVcwQC6K8/edit). 🔗
+
+
+
 ## 🛠️ Expertise
 
 - **Data Analysis and Visualization**: I possess advanced skills in data exploration, analysis, and visualization. Proficient in **Python**, **R**, and **SQL**, I leverage my programming expertise to extract valuable insights from complex datasets, enabling data-driven decision-making. 📊
